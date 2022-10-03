@@ -14,6 +14,8 @@
  <h3>Ejercicio Web subido en "NETLIFY": </h3>
  
  * ----> [Ir a la WEB](https://elegant-nougat-db76ab.netlify.app) 
+
+<hr> 
  
 ![maquetas-para-portafolio2022](https://user-images.githubusercontent.com/114837201/193473457-f68140a7-7a14-4a4c-aa1d-df085f3dc02a.png)
 

@@ -1,5 +1,5 @@
 # Landing agua purificada
-<h3> Ejercicio de HTML CSS y JS con metodología BEM</h3> 
+<h3> Ejercicio de HTML CSS y JS con metodología BEM | Responsive</h3> 
 
 <p>Hice uso de buenas practicas junto a la metodología BEM y web responsive ademas de usar FLEXBOX y GRID</p>
 
